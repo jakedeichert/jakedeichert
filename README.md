@@ -12,7 +12,7 @@ Thanks for coming to check out my work! I'm a software developer that uses a ver
 
 👾 I've done [a lot](https://github.com/jakedeichert/wasm-astar) of [experimenting](https://twitter.com/jakedeichert/status/1163153126230302721) with **Rust** and **WebAssembly**. 
 
-🛠 I really enjoy building dev tools. [Mask](https://github.com/jakedeichert/mask) is a CLI task runner defined by a simple markdown file. [Svelvet](https://github.com/jakedeichert/svelvet) is a super fast esm compiler for Svelte.
+🛠 I really enjoy building dev tools. [Mask](https://github.com/jakedeichert/mask) is a CLI task runner which uses a markdown file to define commands. [Svelvet](https://github.com/jakedeichert/svelvet) was an experiment in building an esm-based compiler for **Svelte**.
 
 🧪 This year I'm hoping to get into IoT and embedded development with **Rust**. 
 
