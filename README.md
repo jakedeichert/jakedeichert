@@ -10,7 +10,7 @@ Thanks for coming to check out my work! I'm a software developer that uses a ver
 
 🚀 I'm currently working on a fun little side project. You'll hear more about that once I ship it!
 
-👾 I've done [a lot](https://github.com/jakedeichert/wasm-astar) of [experimenting](https://twitter.com/jakedeichert/status/1163153126230302721) with **Rust** and **WebAssembly**. 
+👾 I like [experimenting](https://github.com/jakedeichert/wasm-astar) with **Rust** and **WebAssembly** and can't wait to show off [more of my work](https://twitter.com/jakedeichert/status/1163153126230302721). 
 
 🛠 I really enjoy building dev tools. [Mask](https://github.com/jakedeichert/mask) is a CLI task runner which uses a markdown file to define commands. [Svelvet](https://github.com/jakedeichert/svelvet) was an experiment in building an esm-based compiler for **Svelte**.
 
