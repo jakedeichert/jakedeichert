@@ -4,7 +4,7 @@
 <img alt="outrun wallpaper" src="https://user-images.githubusercontent.com/1631044/87230111-6a4c4b00-c37b-11ea-8f3f-d119da09fb01.jpg" />
 
 
-## Hey! 🥳
+## Hey there!
 
 Thanks for coming to check out my work! I'm a software developer that uses a very broad set of technologies. I have a lot of experience with **Node**, **Docker**,  **Go**, **TypeScript** and **React**... but my go-to stack right now is **Rust** for the backend and **Svelte** on the frontend. 
 
