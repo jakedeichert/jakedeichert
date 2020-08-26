@@ -1,12 +1,9 @@
-
-
-
 <img alt="outrun wallpaper" src="https://user-images.githubusercontent.com/1631044/88755622-90ba0680-d12f-11ea-977e-f8ec7caa11fa.jpg" />
 
 
 ## Hey there!
 
-Thanks for coming to check out my work! I'm a software developer that's familiar with a very broad set of technologies. I have a lot of experience with **Node**, **Docker**,  **Go**, **TypeScript** and **React**... but my go-to stack right now is **Rust** for the backend and **Svelte** on the frontend. 
+Thanks for coming to check out my work. I'm a software developer that's familiar with a wide range of technologies. I have a lot of experience with **Node**, **Docker**,  **Go**, **TypeScript** and **React**... but my go-to stack right now is **Rust** for the backend and **Svelte** on the frontend. 
 
 🚀 I'm currently working on a fun little side project. You'll hear more about that once I ship it!
 
