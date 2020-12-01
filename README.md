@@ -1,4 +1,3 @@
-<img alt="outrun wallpaper" src="https://user-images.githubusercontent.com/1631044/88755622-90ba0680-d12f-11ea-977e-f8ec7caa11fa.jpg" />
 
 
 ## Hey there!
