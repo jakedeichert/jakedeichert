@@ -14,6 +14,6 @@ Thanks for coming to check out my work. I'm a software developer that's familiar
 
 📘 I sometimes write about things on my [blog](https://jakedeichert.com) and you can follow my [RSS feed](https://jakedeichert.com/feed.xml) to keep up to date.
 
-👋 You can reach out to me on [Twitter](https://twitter.com/jakedeichert) or try emailing me at [jakedeichert@hey.com](mailto:jakedeichert@hey.com).
+👋 You can reach out to me on [Twitter](https://twitter.com/jakedeichert) or try emailing me at [hey@jakedeichert.com](mailto:hey@jakedeichert.com).
 
 
