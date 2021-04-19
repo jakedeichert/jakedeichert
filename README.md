@@ -1,6 +1,6 @@
 ## Hey there!
 
-I'm Jake Deichert, a senior software engineer and part-time solopreneur from Toronto. Thanks for coming to check out my work!
+I'm Jake Deichert, a lead software engineer from Toronto. Thanks for coming to check out my work!
 
 🧰 Most of my experience is based around **Node**, **Docker**, **Go**, **TypeScript** and **React**... but my go-to stack right now is **Rust** for the backend and **Svelte** on the frontend. 
 
