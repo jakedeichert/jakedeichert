@@ -1,12 +1,12 @@
 ## Hey there!
 
-I'm Jake Deichert, a lead software engineer from Toronto. Thanks for coming to check out my work!
+I'm Jake Deichert, a lead software developer from Toronto. Thanks for coming to check out my work!
 
 🧰 Most of my experience is based around **Node**, **Docker**, **Go**, **TypeScript** and **React**... but my go-to stack right now is **Rust** for the backend and **Svelte** on the frontend. 
 
 🐼 I recently launched my first side business, a jigsaw puzzle website called [Puzzle Panda][1]!
 
-👾 I like [experimenting][2] with **Rust** and **WebAssembly** and can't wait to show off [more of my work][3] soon. 
+👾 I like [experimenting][2] with **Rust** and **WebAssembly** and I'll be sharing more about [another project][3] soon.
 
 🛠 I enjoy building dev tools and automating things. [Mask][4] is a CLI task runner which uses a markdown file to define commands. [Svelvet][5] was an experiment in building an esm-based compiler for **Svelte**.
 
